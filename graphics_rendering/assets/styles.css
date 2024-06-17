@@ -1,0 +1,29 @@
+.main_wrapper {
+	min-width: 100px;
+}
+
+h1 {
+	color: black;
+	text-align: center;  
+	width: 67%; 
+	height: 25px;
+	margin-top: 0px
+}
+
+.text {
+	font-size: 23px;
+	width: 25%;
+}
+
+.evol-graph {
+	align-items: center;
+	width: 75%;
+	margin-top: 15px;
+}
+
+.scroll {
+	overflowY: scroll;
+	scroll-behavior: smooth;
+	display: flex;
+	border: solid 1px black;
+}
